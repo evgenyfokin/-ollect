@@ -57,7 +57,7 @@ function Login() {
                     required: 'Password is required',
                     minLength:{
                         value:4,
-                        message: 'Password must have at least 8 characters'
+                        message: 'Password must have at least 4 characters'
                     }
                 })}
                 type="password"
